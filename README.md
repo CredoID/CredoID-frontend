@@ -3,6 +3,7 @@
 # CredoID-frontend
 
 OVERVIEW
+
 CredoID is a decentralized identity and KYC reuse protocol built on the Stellar ecosystem. This frontend application provides users with a secure and intuitive interface to manage their digital identity, complete KYC verification once, and reuse that verification across multiple applications without resubmitting personal documents.
 The frontend serves as the Identity Wallet and Verifier Dashboard, allowing users to upload identity documents, receive verifiable credentials, manage identity NFTs, and share proof of verification with trusted applications.
 It also enables KYC providers and integrators to interact with the platform through a transparent and decentralized interface powered by Soroban smart contracts and decentralized storage using IPFS.
@@ -42,11 +43,13 @@ Smart Contracts- Soroban
 Decentralized Storage-IPFS
 
  📁 Project Structure
+ 
 .
-├── public/                     
+├── public/ 
 │   ├── images/
 │   └── icons/
 │
+
 ├── src/
 │   ├── app/                    
 │   │   ├── dashboard/
@@ -155,4 +158,5 @@ Contributions are welcome 🚀
 
 
  
+
 
